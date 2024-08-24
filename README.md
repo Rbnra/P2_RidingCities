@@ -1,5 +1,1 @@
-Mission:
-
-Améliorer la page de Riding Cities 
-Ajouter une section "Les Membres Fondateurs
-Améliorer la section "Découvrez nos cours"
+L'objectif est d'améliorer la page de Riding Cities, ajouter une section "Les Membres Fondateurs et améliorer la section "Découvrez nos cours".
